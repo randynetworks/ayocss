@@ -1,0 +1,176 @@
+/* 
+*** Ayo CSS  ***
+The Beautiful and light CSS Framework
+
+Copyright by Randynetworks
+*/
+
+/* The Beautiful Default Body */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+}
+
+/* The Beautiful Default Body end */
+
+/* The Beautiful text Color Start Here */
+.dragon-text {
+    color: #d32f2f;
+}
+
+.indigo-text {
+    color: #3f51b5;
+}
+
+.teal-text {
+    color: #26a69a;
+}
+
+.amber-text {
+    color: #ffc107;
+}
+
+.gress-text {
+    color: #00c853;
+}
+
+.bear-text {
+    color: #795548;
+}
+
+.white-text {
+    color: #fafafa;
+}
+
+.darkness-text {
+    color: #212121;
+}
+
+/* The Beautiful text Color finish Here */
+
+/* =========================================== */
+
+/* The Beautiful backgroud color Start Here */
+.dragon-bg {
+    background-color: #d32f2f;
+    color: #fafafa;
+}
+
+.indigo-bg {
+    background-color: #3f51b5;
+    color: #fafafa;
+}
+
+.teal-bg {
+    background-color: #26a69a;
+    color: #fafafa;
+}
+
+.amber-bg {
+    background-color: #ffc107;
+    color: #fafafa;
+}
+
+.gress-bg {
+    background-color: #00c853;
+    color: #fafafa;
+}
+
+.bear-bg {
+    background-color: #795548;
+    color: #fafafa;
+}
+
+.white-bg {
+    background-color: #fafafa;
+    color: #212121;
+}
+
+.darkness-text {
+    background-color: #212121;
+}
+
+/* The Beautiful backgroud color Finish Here */
+
+/* =========================================== */
+
+/* The Beautiful button start here */
+
+/* Button Properties */
+
+.btn {
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 0.7rem;
+}
+
+.btn-sm {
+    padding: 0.4rem;
+}
+
+.btn-lg {
+    padding: 1rem;
+}
+
+.btn:hover {
+    padding: 0.8rem;
+
+}
+
+.btn-sm:hover {
+    padding: 0.5rem;
+}
+
+.btn-lg:hover {
+    padding: 1.1rem;
+}
+/* this is the end of button Properties */
+
+/* Button Color */
+
+.dragon-btn {
+    background-color: #d32f2f;
+    color: #fafafa;
+
+}
+
+.indigo-btn {
+    background-color: #3f51b5;
+    color: #fafafa;
+}
+
+.teal-btn {
+    background-color: #26a69a;
+    color: #fafafa;
+}
+
+.amber-btn {
+    background-color: #ffc107;
+    color: #fafafa;
+}
+
+.gress-btn {
+    background-color: #00c853;
+    color: #fafafa;
+}
+
+.bear-btn {
+    background-color: #795548;
+    color: #fafafa;
+}
+
+.white-btn {
+    background-color: #fafafa;
+    color: #212121;
+}
+
+.darkness-text {
+    background-color: #212121;
+}
+/* button Color */
+
+/* The Beautiful button finish here */
+
+/* This is the Container */
+
+/* This is the end of Container */
